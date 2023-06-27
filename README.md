@@ -6,7 +6,7 @@
 * Step 2 - Create a new **Collection** (just a group of requests)
 * Step 3 - Create your requests
 ## Important when testing GitHub APIs
-GitHub uses curly braces `{}` and Postman uses colon `:`<br>
+**GitHub** uses curly braces `{}` and **Postman** uses colon `:`<br>
 
 https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28#get-a-user
 
