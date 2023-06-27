@@ -1,6 +1,8 @@
 # Postman
 API testing and collaboration tool<br>
 ![postman-logo-580x464px](https://github.com/danielurra/postman/assets/51704179/cfc6b231-622d-4906-8a7d-53bf5eb32bc7)<br>
+<a href="http://postman.com" <img src="https://github.com/danielurra/postman/assets/51704179/cfc6b231-622d-4906-8a7d-53bf5eb32bc7" alt="Postman"/></a>
+<br>
 * Step 1 - Create a new **Workspace**
 * Step 2 - Create a new **Collection** (just a group of requests)
 * Step 3 - Create your requests
