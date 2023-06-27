@@ -17,7 +17,7 @@ I was able to deploy my **Node.js** App to a live server, I do have a Digital Oc
 I did install `Nginx web server` on my VPS and create a few subdomains (server blocks)<br>
 Once my subdomains were reachable I proceed with the SSL certificate installation, Let's Encrypt was my choice (available for free)<br>
 My backend is managed by **Node.js** and **npm** I had to install both to able to deploy my App<br>
-For testing the API using the subdomain I had to configure Nginx as a **reverse proxy**.<br>
+For testing the API using the subdomain I had to configure `Nginx` as a **reverse proxy**.<br>
 ![http-method-GET-node js-nginx-reverse-proxy](https://github.com/danielurra/postman/assets/51704179/9d0d9db4-228f-4f62-8641-6c33edd01b36)<br>
 
 ![postman-get-03](https://github.com/danielurra/postman/assets/51704179/7a825b93-7ebe-49b4-a3ec-ea4aa92a29b8)<br>
