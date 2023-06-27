@@ -1,5 +1,5 @@
 # Postman
-[Postman is an](https://www.postman.com) API testing and collaboration tool<br>
+[Postman](https://www.postman.com) is an API testing and collaboration tool<br>
 ![postman-logo-580x464px](https://github.com/danielurra/postman/assets/51704179/cfc6b231-622d-4906-8a7d-53bf5eb32bc7)<br>
 
 * Step 1 - Create a new **Workspace**
