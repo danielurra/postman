@@ -16,7 +16,8 @@ See example below:<br>
 ## Node.js first API
 I was able to deploy my **Node.js** App to a live server, I do have a Digital Ocean Droplet (VPS) running Linux Ubuntu 22.04<br>
 I did install `Nginx web server` on my VPS and create a few subdomains (server blocks)<br>
-Once my subdomains were reachable I proceed with the SSL certificate installation, Let's Encrypt was my choice (available for free)<br>
+Once my subdomains were reachable I proceed with the SSL certificate installation.
+I did install [Certbot](https://certbot.eff.org/) which install Let's Encrypt SSL certificates (available for free)<br>
 My backend is managed by **Node.js** and **npm** I had to install both to able to deploy my App<br>
 For testing the API using the subdomain I had to configure `Nginx` as a **reverse proxy**.<br>
 
