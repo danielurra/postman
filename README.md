@@ -14,11 +14,11 @@ See example below:<br>
 ![github-get-a-user-api](https://github.com/danielurra/postman/assets/51704179/a948eb1f-cf5d-4e4f-ac2f-afcbbc659973)<br>
 ![github-get-a-user-api-postman](https://github.com/danielurra/postman/assets/51704179/5f2f9f89-df6f-4c06-a5f0-d964d72afebe)<br>
 ## Node.js first API
-I was able to deploy my **Node.js** App to a live server, I do have a Digital Ocean Droplet (VPS) running Linux Ubuntu 22.04<br>
-I did install `Nginx web server` on my VPS and create a few subdomains (server blocks)<br>
+I was able to deploy my **Node.js** App to a live server, I do have a Digital Ocean Droplet (VPS) running Linux Ubuntu 22.04.<br>
+I did install `Nginx web server` on my VPS and create a few subdomains (nginx server blocks).<br>
 Once my subdomains were reachable I proceed with the SSL certificate installation.<br>
-I did install [Certbot](https://certbot.eff.org/) which install [Let's Encrypt](https://letsencrypt.org/) SSL certificates (available for free)<br>
-My backend is managed by **Node.js** and **npm** I had to install both to able to deploy my App<br>
+I did install [Certbot](https://certbot.eff.org/) which install [Let's Encrypt](https://letsencrypt.org/) free SSL certificates.<br>
+My backend is managed by **Node.js** and **npm** I had to install both to able to deploy my App.<br>
 For testing the API using the subdomain I had to configure `Nginx` as a **reverse proxy**.<br>
 
 ![http-method-GET-node js-nginx-reverse-proxy](https://github.com/danielurra/postman/assets/51704179/9d0d9db4-228f-4f62-8641-6c33edd01b36)<br>
